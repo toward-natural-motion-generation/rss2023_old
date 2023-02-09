@@ -31,12 +31,16 @@ We consider various topics of natural motion generation as below, but not limite
 TBD
 
 ### Program
-TBD
+
 
 ### Workshop Date
 - **10<sup>th</sup> or 14<sup>th</sup> July 2023**
 
 ### Organizers 
+- Hyemin Ahn, Ulsan National Institute of Science and Technology (UNIST), Korea
+- Sungjoon Choi, Korea University, Korea
+- Joohyung Kim, University of Illinois Urbana-Champaign, USA
+- Katsu Yamane, Path Robotics, USA
 
 ### Contact
 [Hyemin Ahn, UNIST](mailto:hyemin.ahn@unist.ac.kr)
