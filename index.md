@@ -28,8 +28,6 @@ We consider various topics of natural motion generation as below, but not limite
 - Advanced algorithms for natural motion. 
 
 ### Speakers 
-- Libin Liu, Peking University
-- Eiichi Yoshida, Tokyo University of Science 
 <table width="100%">
   <tr>
     <td width="25%" style="text-align: center; vertical-align: middle;"> <b>Libin Liu</b></td>
