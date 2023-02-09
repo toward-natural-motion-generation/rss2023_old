@@ -48,36 +48,36 @@ We consider various topics of natural motion generation as below, but not limite
 ### Program
 <table width="100%">
   <tr>
-    <td width="100%" style="text-align: center; vertical-align: left;"> <b>Korean Time (UTC+09:00)</b></td>
-    <td width="100%" style="text-align: center; vertical-align: left;"> <b>Schedule</b></td>
+    <td width="50%" style="text-align: center; vertical-align: left;"> <b>Korean Time (UTC+09:00)</b></td>
+    <td width="50%" style="text-align: center; vertical-align: left;"> <b>Schedule</b></td>
   </tr>  
   <tr>
-    <td width="100%" style="text-align: center; vertical-align: left;"> 08:50 ~ 09:00 </td>
-    <td width="100%" style="text-align: center; vertical-align: left;"> Opening </td>
+    <td width="50%" style="text-align: center; vertical-align: left;"> 08:50 ~ 09:00 </td>
+    <td width="50%" style="text-align: center; vertical-align: left;"> Opening </td>
   </tr>  
   <tr>
-    <td width="100%" style="text-align: center; vertical-align: left;"> 09:00 ~ 09:40 </td>
-    <td width="100%" style="text-align: center; vertical-align: left;"> Invited Talk 1 </td>
+    <td width="50%" style="text-align: center; vertical-align: left;"> 09:00 ~ 09:40 </td>
+    <td width="50%" style="text-align: center; vertical-align: left;"> Invited Talk 1 </td>
   </tr>  
   <tr>
-    <td width="100%" style="text-align: center; vertical-align: left;"> 09:40 ~ 10:20 </td>
-    <td width="100%" style="text-align: center; vertical-align: left;"> Invited Talk 2 </td>
+    <td width="50%" style="text-align: center; vertical-align: left;"> 09:40 ~ 10:20 </td>
+    <td width="50%" style="text-align: center; vertical-align: left;"> Invited Talk 2 </td>
   </tr>  
   <tr>
-    <td width="100%" style="text-align: center; vertical-align: left;"> 10:20 ~ 10:50 </td>
-    <td width="100%" style="text-align: center; vertical-align: left;"> Coffee Break </td>
+    <td width="50%" style="text-align: center; vertical-align: left;"> 10:20 ~ 10:50 </td>
+    <td width="50%" style="text-align: center; vertical-align: left;"> Coffee Break </td>
   </tr>  
   <tr>
-    <td width="100%" style="text-align: center; vertical-align: left;"> 10:50 ~ 11:30 </td>
-    <td width="100%" style="text-align: center; vertical-align: left;"> Invited Talk 3 </td>
+    <td width="50%" style="text-align: center; vertical-align: left;"> 10:50 ~ 11:30 </td>
+    <td width="50%" style="text-align: center; vertical-align: left;"> Invited Talk 3 </td>
   </tr>  
   <tr>
-    <td width="100%" style="text-align: center; vertical-align: left;"> 11:30 ~ 12:10 </td>
-    <td width="100%" style="text-align: center; vertical-align: left;"> Invited Talk 4 </td>
+    <td width="50%" style="text-align: center; vertical-align: left;"> 11:30 ~ 12:10 </td>
+    <td width="50%" style="text-align: center; vertical-align: left;"> Invited Talk 4 </td>
   </tr>  
   <tr>
-    <td width="100%" style="text-align: center; vertical-align: left;"> 12:10 ~ 13:30 </td>
-    <td width="100%" style="text-align: center; vertical-align: left;"> Lunch </td>
+    <td width="50%" style="text-align: center; vertical-align: left;"> 12:10 ~ 13:30 </td>
+    <td width="50%" style="text-align: center; vertical-align: left;"> Lunch </td>
   </tr>  
 </table>
 
