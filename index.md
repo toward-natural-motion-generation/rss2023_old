@@ -31,16 +31,32 @@ We consider various topics of natural motion generation as below, but not limite
 TBD
 
 ### Program
+<table width="100%">
+  <tr>
+    <td width="50%" style="text-align: center; vertical-align: middle;"> <b>Korean Time (UTC+09:00)</b></td>
+    <td width="50%" style="text-align: center; vertical-align: middle;"> <b>Schedule</b></td>
+  </tr>  
+</table>
 
 
 ### Workshop Date
 - **10<sup>th</sup> or 14<sup>th</sup> July 2023**
 
 ### Organizers 
-- Hyemin Ahn, Ulsan National Institute of Science and Technology (UNIST), Korea
-- Sungjoon Choi, Korea University, Korea
-- Joohyung Kim, University of Illinois Urbana-Champaign, USA
-- Katsu Yamane, Path Robotics, USA
+<table width="100%">
+  <tr>
+    <td width="25%" style="text-align: center; vertical-align: middle;"> <b>Hyemin Ahn</b></td>
+    <td width="25%" style="text-align: center; vertical-align: middle;"> <b>Sungjoon Choi</b></td>
+    <td width="25%" style="text-align: center; vertical-align: middle;"> <b>Joohyung Kim</b></td>
+    <td width="25%" style="text-align: center; vertical-align: middle;"> <b>Katsu Yamane</b></td>
+  </tr>  
+  <tr>
+    <td width="25%" style="text-align: center; vertical-align: middle;"> UNIST, Korea</td>
+    <td width="25%" style="text-align: center; vertical-align: middle;"> Korea University, Korea </td>
+    <td width="25%" style="text-align: center; vertical-align: middle;"> University of Illinois Urbana-Champaign, USA</td>
+    <td width="25%" style="text-align: center; vertical-align: middle;"> Path Robotics, USA</td>
+  </tr>  
+</table>
 
 ### Contact
 [Hyemin Ahn, UNIST](mailto:hyemin.ahn@unist.ac.kr)
