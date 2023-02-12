@@ -30,6 +30,7 @@ We consider various topics of natural motion generation as below, but not limite
 ### Speakers
 * Libin Liu (Peking University, China)
 * Eiichi Yoshida (Tokyo University of Science, Japan)
+* Sungjoon Choi (Korea University, Korea)
 
 ### Program
 <table width="100%">
