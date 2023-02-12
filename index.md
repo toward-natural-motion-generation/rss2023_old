@@ -27,21 +27,9 @@ We consider various topics of natural motion generation as below, but not limite
 - Mechanical design for natural motion.
 - Advanced algorithms for natural motion. 
 
-### Speakers 
-<table width="100%">
-  <tr>
-    <td width="25%" style="text-align: center; vertical-align: middle;"> <b>Libin Liu</b></td>
-    <td width="25%" style="text-align: center; vertical-align: middle;"> <b>Eiichi Yoshida</b></td>
-    <td width="25%" style="text-align: center; vertical-align: middle;"> <b>-</b></td>
-    <td width="25%" style="text-align: center; vertical-align: middle;"> <b>-</b></td>
-  </tr>  
-  <tr>
-    <td width="25%" style="text-align: center; vertical-align: middle;"> Peking University, China </td>
-    <td width="25%" style="text-align: center; vertical-align: middle;"> Tokyo University of Science, Japan </td>
-    <td width="25%" style="text-align: center; vertical-align: middle;">-</td>
-    <td width="25%" style="text-align: center; vertical-align: middle;">-</td>
-  </tr>  
-</table>
+### Speakers
+* Libin Liu (Peking University, China)
+* Eiichi Yoshida (Tokyo University of Science, Japan)
 
 ### Program
 <table width="100%">
@@ -76,7 +64,35 @@ We consider various topics of natural motion generation as below, but not limite
   <tr>
     <td width="50%" style="text-align: center; vertical-align: left;"> 12:10 ~ 13:30 </td>
     <td width="50%" style="text-align: center; vertical-align: left;"> Lunch </td>
-  </tr>  
+  </tr> 
+  <tr>
+    <td width="50%" style="text-align: center; vertical-align: left;"> 13:30 ~ 14:10 </td>
+    <td width="50%" style="text-align: center; vertical-align: left;"> Invited Talk 5 </td>
+  </tr> 
+  <tr>
+    <td width="50%" style="text-align: center; vertical-align: left;"> 14:10 ~ 14:50 </td>
+    <td width="50%" style="text-align: center; vertical-align: left;"> Invited Talk 6 </td>
+  </tr> 
+  <tr>
+    <td width="50%" style="text-align: center; vertical-align: left;"> 14:50 ~ 15:20 </td>
+    <td width="50%" style="text-align: center; vertical-align: left;"> Coffee Break </td>
+  </tr>
+  <tr>
+    <td width="50%" style="text-align: center; vertical-align: left;"> 15:20 ~ 16:00 </td>
+    <td width="50%" style="text-align: center; vertical-align: left;"> Invited Talk 7 </td>
+  </tr>
+  <tr>
+    <td width="50%" style="text-align: center; vertical-align: left;"> 16:00 ~ 16:40 </td>
+    <td width="50%" style="text-align: center; vertical-align: left;"> Invited Talk 8 </td>
+  </tr>
+  <tr>
+    <td width="50%" style="text-align: center; vertical-align: left;"> 16:40 ~ 17:50 </td>
+    <td width="50%" style="text-align: center; vertical-align: left;"> Panel Discussion </td>
+  </tr>
+  <tr>
+    <td width="50%" style="text-align: center; vertical-align: left;"> 17:50 ~ 18:00 </td>
+    <td width="50%" style="text-align: center; vertical-align: left;"> Closing </td>
+  </tr>
 </table>
 
 
@@ -84,20 +100,10 @@ We consider various topics of natural motion generation as below, but not limite
 - **10<sup>th</sup> or 14<sup>th</sup> July 2023**
 
 ### Organizers 
-<table width="100%">
-  <tr>
-    <td width="25%" style="text-align: center; vertical-align: middle;"> <b>Hyemin Ahn</b></td>
-    <td width="25%" style="text-align: center; vertical-align: middle;"> <b>Sungjoon Choi</b></td>
-    <td width="25%" style="text-align: center; vertical-align: middle;"> <b>Joohyung Kim</b></td>
-    <td width="25%" style="text-align: center; vertical-align: middle;"> <b>Katsu Yamane</b></td>
-  </tr>  
-  <tr>
-    <td width="25%" style="text-align: center; vertical-align: middle;"> UNIST, Korea</td>
-    <td width="25%" style="text-align: center; vertical-align: middle;"> Korea University, Korea </td>
-    <td width="25%" style="text-align: center; vertical-align: middle;"> University of Illinois Urbana-Champaign, USA</td>
-    <td width="25%" style="text-align: center; vertical-align: middle;"> Path Robotics, USA</td>
-  </tr>  
-</table>
+* Hyemin Ahn (UNIST, Korea)
+* Sungjoon Choi (Korea University, Korea)
+* Joohyung Kim (University of Illinois Urbana-Champaign, USA)
+* Katsu Yamane (Path Robotics, USA)
 
 ### Contact
 [Hyemin Ahn, UNIST](mailto:hyemin.ahn@unist.ac.kr)
