@@ -88,7 +88,7 @@ We consider various topics of natural motion generation as below, but not limite
   </tr>
   <tr>
     <td width="50%" style="text-align: center; vertical-align: left;"> 15:50 ~ 16:20 </td>
-    <td width="50%" style="text-align: center; vertical-align: left;"> Invited Talk 8 </td>
+    <td width="50%" style="text-align: center; vertical-align: left;"> Invited Talk 9 </td>
   </tr>
   <tr>
     <td width="50%" style="text-align: center; vertical-align: left;"> 16:20 ~ 16:50 </td>
