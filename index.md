@@ -39,59 +39,63 @@ We consider various topics of natural motion generation as below, but not limite
     <td width="50%" style="text-align: center; vertical-align: left;"> <b>Schedule</b></td>
   </tr>  
   <tr>
-    <td width="50%" style="text-align: center; vertical-align: left;"> 08:50 ~ 09:00 </td>
+    <td width="50%" style="text-align: center; vertical-align: left;"> 09:30 ~ 09:40 </td>
     <td width="50%" style="text-align: center; vertical-align: left;"> Opening </td>
   </tr>  
   <tr>
-    <td width="50%" style="text-align: center; vertical-align: left;"> 09:00 ~ 09:40 </td>
+    <td width="50%" style="text-align: center; vertical-align: left;"> 09:40 ~ 10:10 </td>
     <td width="50%" style="text-align: center; vertical-align: left;"> Invited Talk 1 </td>
   </tr>  
   <tr>
-    <td width="50%" style="text-align: center; vertical-align: left;"> 09:40 ~ 10:20 </td>
+    <td width="50%" style="text-align: center; vertical-align: left;"> 10:10 ~ 10:40 </td>
     <td width="50%" style="text-align: center; vertical-align: left;"> Invited Talk 2 </td>
   </tr>  
   <tr>
-    <td width="50%" style="text-align: center; vertical-align: left;"> 10:20 ~ 10:50 </td>
+    <td width="50%" style="text-align: center; vertical-align: left;"> 10:40 ~ 11:00 </td>
     <td width="50%" style="text-align: center; vertical-align: left;"> Coffee Break </td>
   </tr>  
   <tr>
-    <td width="50%" style="text-align: center; vertical-align: left;"> 10:50 ~ 11:30 </td>
+    <td width="50%" style="text-align: center; vertical-align: left;"> 11:00 ~ 11:30 </td>
     <td width="50%" style="text-align: center; vertical-align: left;"> Invited Talk 3 </td>
   </tr>  
   <tr>
-    <td width="50%" style="text-align: center; vertical-align: left;"> 11:30 ~ 12:10 </td>
+    <td width="50%" style="text-align: center; vertical-align: left;"> 11:30 ~ 12:00 </td>
     <td width="50%" style="text-align: center; vertical-align: left;"> Invited Talk 4 </td>
   </tr>  
   <tr>
-    <td width="50%" style="text-align: center; vertical-align: left;"> 12:10 ~ 13:30 </td>
+    <td width="50%" style="text-align: center; vertical-align: left;"> 12:00 ~ 13:30 </td>
     <td width="50%" style="text-align: center; vertical-align: left;"> Lunch </td>
   </tr> 
   <tr>
-    <td width="50%" style="text-align: center; vertical-align: left;"> 13:30 ~ 14:10 </td>
+    <td width="50%" style="text-align: center; vertical-align: left;"> 13:30 ~ 14:00 </td>
     <td width="50%" style="text-align: center; vertical-align: left;"> Invited Talk 5 </td>
   </tr> 
   <tr>
-    <td width="50%" style="text-align: center; vertical-align: left;"> 14:10 ~ 14:50 </td>
+    <td width="50%" style="text-align: center; vertical-align: left;"> 14:00 ~ 14:30 </td>
     <td width="50%" style="text-align: center; vertical-align: left;"> Invited Talk 6 </td>
   </tr> 
   <tr>
-    <td width="50%" style="text-align: center; vertical-align: left;"> 14:50 ~ 15:20 </td>
+    <td width="50%" style="text-align: center; vertical-align: left;"> 14:30 ~ 14:50 </td>
     <td width="50%" style="text-align: center; vertical-align: left;"> Coffee Break </td>
   </tr>
   <tr>
-    <td width="50%" style="text-align: center; vertical-align: left;"> 15:20 ~ 16:00 </td>
+    <td width="50%" style="text-align: center; vertical-align: left;"> 14:50 ~ 15:20 </td>
     <td width="50%" style="text-align: center; vertical-align: left;"> Invited Talk 7 </td>
   </tr>
   <tr>
-    <td width="50%" style="text-align: center; vertical-align: left;"> 16:00 ~ 16:40 </td>
+    <td width="50%" style="text-align: center; vertical-align: left;"> 15:20 ~ 15:50 </td>
     <td width="50%" style="text-align: center; vertical-align: left;"> Invited Talk 8 </td>
   </tr>
   <tr>
-    <td width="50%" style="text-align: center; vertical-align: left;"> 16:40 ~ 17:50 </td>
+    <td width="50%" style="text-align: center; vertical-align: left;"> 15:50 ~ 16:20 </td>
+    <td width="50%" style="text-align: center; vertical-align: left;"> Invited Talk 8 </td>
+  </tr>
+  <tr>
+    <td width="50%" style="text-align: center; vertical-align: left;"> 16:20 ~ 16:50 </td>
     <td width="50%" style="text-align: center; vertical-align: left;"> Panel Discussion </td>
   </tr>
   <tr>
-    <td width="50%" style="text-align: center; vertical-align: left;"> 17:50 ~ 18:00 </td>
+    <td width="50%" style="text-align: center; vertical-align: left;"> 16:50 ~ 17:00 </td>
     <td width="50%" style="text-align: center; vertical-align: left;"> Closing </td>
   </tr>
 </table>
