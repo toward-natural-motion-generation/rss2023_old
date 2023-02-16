@@ -108,9 +108,36 @@ We consider various topics of natural motion generation as below, but not limite
 
 ### Organizers 
 * Hyemin Ahn (UNIST, Korea)
+<table width="100%">
+  <tr>
+    <td width="30%"> <img src="assets/images/hyemin_ahn.JPG" alt= "" width="500"></td>
+    <td width="70%" style="text-align: center; vertical-align: left;"> BIO </td>
+  </tr>
+</table>
+
 * Sungjoon Choi (Korea University, Korea)
+<table width="100%">
+  <tr>
+    <td width="30%"> <img src="assets/images/sungjoon_choi.png" alt= "" width="500"></td>
+    <td width="70%" style="text-align: center; vertical-align: left;"> BIO </td>
+  </tr>
+</table>
+
 * Joohyung Kim (University of Illinois Urbana-Champaign, USA)
+<table width="100%">
+  <tr>
+    <td width="30%"><img src="assets/images/joohyung_kim.jpg" alt= "" width="500"></td>
+    <td width="70%" style="text-align: center; vertical-align: left;"> BIO </td>
+  </tr>
+</table>
+
 * Katsu Yamane (Path Robotics, USA)
+<table width="100%">
+  <tr>
+    <td width="30%"><img src="assets/images/katsu_yamane.jpg" alt= "" width="500"></td>
+    <td width="70%" style="text-align: center; vertical-align: left;"> BIO </td>
+  </tr>
+</table>
 
 ### Contact
 [Hyemin Ahn, UNIST](mailto:hyemin.ahn@unist.ac.kr)
