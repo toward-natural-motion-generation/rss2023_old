@@ -110,7 +110,7 @@ We consider various topics of natural motion generation as below, but not limite
 * Hyemin Ahn (UNIST, Korea)
 <table width="100%">
   <tr>
-    <td width="30%"> <img src="assets/images/hyemin_ahn.JPG" alt= "" width="500"></td>
+    <td width="30%"> <img src="assets/images/hyemin_ahn.JPG" alt= "" width="300"></td>
     <td width="70%" style="text-align: center; vertical-align: left;"> BIO </td>
   </tr>
 </table>
@@ -118,7 +118,7 @@ We consider various topics of natural motion generation as below, but not limite
 * Sungjoon Choi (Korea University, Korea)
 <table width="100%">
   <tr>
-    <td width="30%"> <img src="assets/images/sungjoon_choi.png" alt= "" width="500"></td>
+    <td width="30%"> <img src="assets/images/sungjoon_choi.png" alt= "" width="300"></td>
     <td width="70%" style="text-align: center; vertical-align: left;"> BIO </td>
   </tr>
 </table>
@@ -126,15 +126,15 @@ We consider various topics of natural motion generation as below, but not limite
 * Joohyung Kim (University of Illinois Urbana-Champaign, USA)
 <table width="100%">
   <tr>
-    <td width="30%"><img src="assets/images/joohyung_kim.jpg" alt= "" width="500"></td>
-    <td width="70%" style="text-align: center; vertical-align: left;"> BIO </td>
+    <td width="30%"><img src="assets/images/joohyung_kim.jpg" alt= "" width="300"></td>
+    <td width="70%" style="text-align: center; vertical-align: left;"> Joohyung Kim is currently an Associate Professor of Electrical and Computer Engineering at the University of Illinois Urbana-Champaign. His research focuses on design and control for humanoid robots, systems for motion learning in robot hardware, and safe human-robot interaction. He received BSE and Ph.D. degrees in Electrical Engineering and Computer Science (EECS) from Seoul National University, Korea, in 2001 and 2012. He was a Research Scientist in Disney Research from 2013 to 2019. Prior to joining Disney, he was a postdoctoral fellow in the Robotics Institute at Carnegie Mellon University for the DARPA Robotics Challenge in 2013. From 2009 to 2012, he was a Research Staff Member in Samsung Advanced Institute of Technology, Korea, developing biped walking controllers for humanoid robots. <br /> https://publish.illinois.edu/kimlab2020/ </td>
   </tr>
 </table>
 
 * Katsu Yamane (Path Robotics, USA)
 <table width="100%">
   <tr>
-    <td width="30%"><img src="assets/images/katsu_yamane.jpg" alt= "" width="500"></td>
+    <td width="30%"><img src="assets/images/katsu_yamane.jpg" alt= "" width="300"></td>
     <td width="70%" style="text-align: center; vertical-align: left;"> Dr. Katsu Yamane is a Principal Research Scientist at Path Robotics Inc. He received his B.S., M.S., and Ph.D. degrees in Mechanical Engineering in 1997, 1999, and 2002 respectively from the University of Tokyo, Japan. Prior to joining Path Robotics in 2022, he held research scientist positions at Bosch Research North America, Honda Research Institute USA, and Disney Research, Pittsburgh. He was also an Associate Professor at the University of Tokyo, and a postdoctoral fellow at Carnegie Mellon University. While his current research focuses on manipulation planning and control for manufacturing, he is still passionate about humanoid robot control and motion synthesis, physical human-robot interaction, character animation, and human motion simulation. <br /> https://katsuyamane.com </td>
   </tr>
 </table>
