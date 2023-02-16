@@ -119,7 +119,8 @@ We consider various topics of natural motion generation as below, but not limite
 <table width="100%">
   <tr>
     <td width="30%"> <img src="assets/images/sungjoon_choi.png" alt= "" width="300"></td>
-    <td width="70%" style="text-align: center; vertical-align: left;"> BIO </td>
+    <td width="70%" style="text-align: center; vertical-align: left;"> Sungjoon Choi is currently an Assistant Professor of Department of Artificial Intelligence at Korea University. Before joining Korea University, he was a postdoctoral researcher at Disney Research, Los Angeles, from 2018-2020 and a research scientist at Kakao Brain, Korea, in 2018. He received his Ph.D. degree in Electrical Computer Engineering at Seoul National University in Seoul, Korea, advised by Songhwai Oh. Before that, he received his Bachelor's degree in Electrical Engineering and Computer Sciences at Seoul National University. During his undergraduate years, He worked at Hanool Robotics in Bucheon, Korea, as a software engineer for three years. His research interests include, but are not limited to, the following areas: human-robot interaction (HRI), robotic applications from free-from text, and physically-plausible conditional motion synthesis. <br /> https://sites.google.com/view/sungjoon-choi/home
+</td>
   </tr>
 </table>
 
