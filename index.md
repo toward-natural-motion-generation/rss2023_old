@@ -135,7 +135,7 @@ We consider various topics of natural motion generation as below, but not limite
 <table width="100%">
   <tr>
     <td width="30%"><img src="assets/images/katsu_yamane.jpg" alt= "" width="500"></td>
-    <td width="70%" style="text-align: center; vertical-align: left;"> BIO </td>
+    <td width="70%" style="text-align: center; vertical-align: left;"> Dr. Katsu Yamane is a Principal Research Scientist at Path Robotics Inc. He received his B.S., M.S., and Ph.D. degrees in Mechanical Engineering in 1997, 1999, and 2002 respectively from the University of Tokyo, Japan. Prior to joining Path Robotics in 2022, he held research scientist positions at Bosch Research North America, Honda Research Institute USA, and Disney Research, Pittsburgh. He was also an Associate Professor at the University of Tokyo, and a postdoctoral fellow at Carnegie Mellon University. While his current research focuses on manipulation planning and control for manufacturing, he is still passionate about humanoid robot control and motion synthesis, physical human-robot interaction, character animation, and human motion simulation. <br /> https://katsuyamane.com </td>
   </tr>
 </table>
 
