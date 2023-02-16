@@ -116,7 +116,7 @@ Hyemin Ahn(she/her) is currently an Assistant Professor of Artificial Intelligen
   </td>
   </tr>
 </table>
-<br/>
+
 * [Sungjoon Choi (Korea University, Korea)](https://sites.google.com/view/sungjoon-choi/home)
 <table width="100%">
   <tr>
@@ -125,7 +125,7 @@ Hyemin Ahn(she/her) is currently an Assistant Professor of Artificial Intelligen
   </td>
   </tr>
 </table>
-<br/>
+
 * [Joohyung Kim (University of Illinois Urbana-Champaign, USA)](https://publish.illinois.edu/kimlab2020/)
 <table width="100%">
   <tr>
@@ -134,7 +134,7 @@ Hyemin Ahn(she/her) is currently an Assistant Professor of Artificial Intelligen
   </td>
   </tr>
 </table>
-<br/>
+
 * [Katsu Yamane (Path Robotics, USA)](https://katsuyamane.com) 
 <table width="100%">
   <tr>
