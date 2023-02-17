@@ -27,12 +27,13 @@ We consider various topics of natural motion generation as below, but not limite
 - Mechanical design for natural motion.
 - Advanced algorithms for natural motion. 
 
-### Invited Speakers
-* Libin Liu (Peking University, China)
-* Eiichi Yoshida (Tokyo University of Science, Japan)
-* Jungdam Won (Seoul National University, Korea), (*Tentative)
-* Daniele Pucci (Italiano di Technologia, Italy)
+### Invited Speakers (alphabetical order on surname)
+* Moritz Bächer (Disney Research, Switzerland)
 * Sungjoon Choi (Korea University, Korea)
+* Libin Liu (Peking University, China)
+* Daniele Pucci (Italiano di Technologia, Italy)
+* Jungdam Won (Seoul National University, Korea), (*Tentative)
+* Eiichi Yoshida (Tokyo University of Science, Japan)
 
 ### Program
 <table width="100%">
