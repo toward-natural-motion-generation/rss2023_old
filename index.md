@@ -105,7 +105,7 @@ We consider various topics of natural motion generation as below, but not limite
 
 
 ### Workshop Date
-- **10<sup>th</sup> or 14<sup>th</sup> July 2023**
+- **14<sup>th</sup> July 2023**
 
 ### Organizers 
 * [Hyemin Ahn (UNIST, Korea)](https://hyeminahn.oopy.io)
