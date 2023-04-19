@@ -32,7 +32,6 @@ We consider various topics of natural motion generation as below, but not limite
 * Sungjoon Choi (Korea University, Korea)
 * Libin Liu (Peking University, China)
 * Daniele Pucci (Italiano di Technologia, Italy)
-* Jungdam Won (Seoul National University, Korea), (*Tentative)
 * Eiichi Yoshida (Tokyo University of Science, Japan)
 
 ### Program
@@ -42,63 +41,39 @@ We consider various topics of natural motion generation as below, but not limite
     <td width="50%" style="text-align: center; vertical-align: left;"> <b>Schedule</b></td>
   </tr>  
   <tr>
-    <td width="50%" style="text-align: center; vertical-align: left;"> 09:30 ~ 09:40 </td>
+    <td width="50%" style="text-align: center; vertical-align: left;"> 13:20 ~ 13:30 </td>
     <td width="50%" style="text-align: center; vertical-align: left;"> Opening </td>
-  </tr>  
-  <tr>
-    <td width="50%" style="text-align: center; vertical-align: left;"> 09:40 ~ 10:10 </td>
-    <td width="50%" style="text-align: center; vertical-align: left;"> Invited Talk 1 </td>
-  </tr>  
-  <tr>
-    <td width="50%" style="text-align: center; vertical-align: left;"> 10:10 ~ 10:40 </td>
-    <td width="50%" style="text-align: center; vertical-align: left;"> Invited Talk 2 </td>
-  </tr>  
-  <tr>
-    <td width="50%" style="text-align: center; vertical-align: left;"> 10:40 ~ 11:00 </td>
-    <td width="50%" style="text-align: center; vertical-align: left;"> Coffee Break </td>
-  </tr>  
-  <tr>
-    <td width="50%" style="text-align: center; vertical-align: left;"> 11:00 ~ 11:30 </td>
-    <td width="50%" style="text-align: center; vertical-align: left;"> Invited Talk 3 </td>
-  </tr>  
-  <tr>
-    <td width="50%" style="text-align: center; vertical-align: left;"> 11:30 ~ 12:00 </td>
-    <td width="50%" style="text-align: center; vertical-align: left;"> Invited Talk 4 </td>
-  </tr>  
-  <tr>
-    <td width="50%" style="text-align: center; vertical-align: left;"> 12:00 ~ 13:30 </td>
-    <td width="50%" style="text-align: center; vertical-align: left;"> Lunch </td>
   </tr> 
   <tr>
     <td width="50%" style="text-align: center; vertical-align: left;"> 13:30 ~ 14:00 </td>
-    <td width="50%" style="text-align: center; vertical-align: left;"> Invited Talk 5 </td>
+    <td width="50%" style="text-align: center; vertical-align: left;"> Invited Talk 1 </td>
   </tr> 
   <tr>
     <td width="50%" style="text-align: center; vertical-align: left;"> 14:00 ~ 14:30 </td>
-    <td width="50%" style="text-align: center; vertical-align: left;"> Invited Talk 6 </td>
+    <td width="50%" style="text-align: center; vertical-align: left;"> Invited Talk 2 </td>
   </tr> 
   <tr>
-    <td width="50%" style="text-align: center; vertical-align: left;"> 14:30 ~ 14:50 </td>
+    <td width="50%" style="text-align: center; vertical-align: left;"> 14:30 ~ 15:00 </td>
+    <td width="50%" style="text-align: center; vertical-align: left;"> Invited Talk 3 </td>
+  </tr>
+  <tr>
+    <td width="50%" style="text-align: center; vertical-align: left;"> 15:00 ~ 15:30 </td>
     <td width="50%" style="text-align: center; vertical-align: left;"> Coffee Break </td>
   </tr>
   <tr>
-    <td width="50%" style="text-align: center; vertical-align: left;"> 14:50 ~ 15:20 </td>
-    <td width="50%" style="text-align: center; vertical-align: left;"> Invited Talk 7 </td>
+    <td width="50%" style="text-align: center; vertical-align: left;"> 15:30 ~ 16:00 </td>
+    <td width="50%" style="text-align: center; vertical-align: left;"> Invited Talk 4 </td>
   </tr>
   <tr>
-    <td width="50%" style="text-align: center; vertical-align: left;"> 15:20 ~ 15:50 </td>
-    <td width="50%" style="text-align: center; vertical-align: left;"> Invited Talk 8 </td>
+    <td width="50%" style="text-align: center; vertical-align: left;"> 16:00 ~ 16:30 </td>
+    <td width="50%" style="text-align: center; vertical-align: left;"> Invited Talk 5 </td>
   </tr>
   <tr>
-    <td width="50%" style="text-align: center; vertical-align: left;"> 15:50 ~ 16:20 </td>
-    <td width="50%" style="text-align: center; vertical-align: left;"> Invited Talk 9 </td>
-  </tr>
-  <tr>
-    <td width="50%" style="text-align: center; vertical-align: left;"> 16:20 ~ 16:50 </td>
+    <td width="50%" style="text-align: center; vertical-align: left;"> 16:30 ~ 17:00 </td>
     <td width="50%" style="text-align: center; vertical-align: left;"> Panel Discussion </td>
   </tr>
   <tr>
-    <td width="50%" style="text-align: center; vertical-align: left;"> 16:50 ~ 17:00 </td>
+    <td width="50%" style="text-align: center; vertical-align: left;"> 17:00 ~ 17:10 </td>
     <td width="50%" style="text-align: center; vertical-align: left;"> Closing </td>
   </tr>
 </table>
